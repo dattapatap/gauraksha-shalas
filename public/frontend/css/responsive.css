@@ -1,0 +1,1650 @@
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 14px;
+  }
+  .btn {
+    padding: 13px 22px;
+    font-size: 13px;
+  }
+  .ptb-80 {
+    padding-top: 55px;
+    padding-bottom: 55px;
+  }
+  p {
+    font-size: 14px;
+  }
+  .others-options {
+    display: none;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background-color: #272b2b;
+    position: relative;
+    top: 8px;
+    margin-top: -8px;
+  }
+  .mean-container .mean-nav ul {
+    max-height: 350px;
+    overflow-x: auto;
+  }
+  .main-banner {
+    height: 100%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  .main-banner-content span {
+    font-size: 13px;
+  }
+  .main-banner-content h1 {
+    margin-bottom: 18px;
+    font-size: 24px;
+    line-height: 1.4;
+  }
+  .main-banner-content p {
+    margin-bottom: 30px;
+    font-size: 13px;
+  }
+  .slider-area .tp-caption.NotGeneric-Title {
+    font-size: 24px !important;
+  }
+  .slider-area .tp-caption.NotGeneric-SubTitle {
+    font-size: 13px !important;
+    max-width: 280px !important;
+    margin: 0 auto !important;
+  }
+  .slider-area .btn {
+    font-size: 13px !important;
+    padding: 14px 30px !important;
+  }
+  .slider-area .tparrows {
+    visibility: visible !important;
+    display: block !important;
+    top: auto !important;
+    bottom: 0;
+  }
+  .section-title {
+    margin-bottom: 35px;
+  }
+  .section-title span {
+    font-size: 13px;
+  }
+  .section-title h2 {
+    font-size: 26px;
+  }
+  .about-image {
+    margin-bottom: 35px;
+  }
+  .about-image img {
+    width: 100%;
+  }
+  .about-content span {
+    font-size: 13px;
+  }
+  .about-content span::before {
+    display: none;
+  }
+  .about-content h2 {
+    font-size: 24px;
+    margin-bottom: 13px;
+  }
+  .about-content ul li {
+    font-size: 13px;
+  }
+  .about-inner-area {
+    margin-top: 10px;
+  }
+  .single-about-inner {
+    margin-top: 30px;
+  }
+  .single-about-inner .image .icon {
+    width: 65px;
+    height: 65px;
+    border-width: 2px;
+    line-height: 60px;
+    font-size: 30px;
+    bottom: -30px;
+  }
+  .single-about-inner .content {
+    margin-top: 50px;
+  }
+  .single-about-inner .content h3 {
+    font-size: 19px;
+  }
+  .courses-area {
+    padding-bottom: 25px;
+  }
+  .courses-area.bg-color-none .courses-slides {
+    margin-bottom: 30px;
+  }
+  .single-courses .courses-content {
+    padding: 20px;
+  }
+  .single-courses .courses-content h3 {
+    font-size: 19px;
+  }
+  .single-courses .courses-content .read-more {
+    font-size: 13px;
+  }
+  .courses-slides {
+    margin-bottom: 55px;
+  }
+  .courses-slides.owl-theme .owl-nav [class*=owl-] {
+    position: relative;
+    left: 0;
+    top: 0;
+    -webkit-transform: unset;
+            transform: unset;
+    margin: 0 2px;
+    -webkit-box-shadow: unset;
+            box-shadow: unset;
+  }
+  .courses-slides.owl-theme .owl-nav [class*=owl-].owl-next {
+    left: auto;
+    right: 0;
+  }
+  .courses-slides.owl-theme .owl-nav [class*=owl-]:hover, .courses-slides.owl-theme .owl-nav [class*=owl-]:focus {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+  .single-funfacts h2 {
+    margin-bottom: 0;
+    font-size: 38px;
+  }
+  .single-funfacts p {
+    font-size: 13px;
+  }
+  .horse-box3 {
+    display: none;
+  }
+  .single-stallions .stallions-content {
+    padding: 20px;
+    max-width: unset;
+    margin-top: 0;
+    margin-right: 0;
+  }
+  .single-stallions .stallions-content h3 {
+    font-size: 19px;
+  }
+  .single-stallions .stallions-content .view-details {
+    font-size: 13px;
+  }
+  .stallions-slides.owl-theme .owl-nav [class*=owl-] {
+    position: relative;
+    left: 0;
+    top: 0;
+    -webkit-transform: unset;
+            transform: unset;
+    margin: 0 2px;
+  }
+  .stallions-slides.owl-theme .owl-nav [class*=owl-].owl-next {
+    left: auto;
+    right: 0;
+  }
+  .video-content h3 {
+    font-size: 19px;
+    line-height: 1.5;
+    margin-top: 25px;
+  }
+  .video-content .video-btn {
+    width: 65px;
+    height: 65px;
+    line-height: 65px;
+    font-size: 20px;
+  }
+  .video-content .video-btn::after {
+    width: 65px;
+    height: 65px;
+  }
+  .blog-area {
+    padding-bottom: 25px;
+  }
+  .single-blog-post .post-content span {
+    font-size: 13px;
+  }
+  .single-blog-post .post-content h3 {
+    font-size: 19px;
+    line-height: 1.4;
+    margin-bottom: 10px;
+  }
+  .feedback-slides.owl-theme .owl-nav [class*=owl-] {
+    position: relative;
+    left: 0 !important;
+    opacity: 1;
+    visibility: visible;
+    top: 0;
+    -webkit-transform: unset;
+            transform: unset;
+    margin: 0 2px;
+  }
+  .feedback-slides.owl-theme .owl-nav [class*=owl-].owl-next {
+    left: auto;
+    right: 0 !important;
+  }
+  .subscribe-area {
+    margin-top: -165px;
+    margin-bottom: 55px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .subscribe-area .horse-box5, .subscribe-area .horse-box6 {
+    display: none;
+  }
+  .subscribe-content {
+    padding-left: 0;
+  }
+  .subscribe-content h2 {
+    text-align: center;
+    font-size: 20px;
+  }
+  .subscribe-content form {
+    padding-bottom: 0;
+  }
+  .subscribe-content form .form-group {
+    float: unset;
+    margin-bottom: 10px;
+    width: 100%;
+    padding-right: 0;
+  }
+  .subscribe-content form .btn {
+    margin-top: 15px;
+    float: unset;
+    width: 100%;
+  }
+  .process-area {
+    padding-bottom: 25px;
+  }
+  .single-process {
+    margin-bottom: 30px;
+    padding-left: 85px;
+    padding-top: 25px;
+    padding-bottom: 28px;
+  }
+  .single-process::before {
+    display: none;
+  }
+  .single-process h3 {
+    font-size: 18px;
+  }
+  .single-process .icon {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 25px;
+  }
+  .instructor-area {
+    padding-bottom: 15px;
+  }
+  .single-instructor .instructor-content h3 {
+    font-size: 19px;
+  }
+  .instructor-slides.owl-theme {
+    margin-bottom: 40px;
+  }
+  .instructor-slides.owl-theme .owl-nav [class*=owl-] {
+    position: relative;
+    left: 0 !important;
+    top: 0;
+    -webkit-transform: unset;
+            transform: unset;
+    margin: 0 2px;
+  }
+  .instructor-slides.owl-theme .owl-nav [class*=owl-].owl-next {
+    left: auto;
+    right: 0 !important;
+  }
+  .single-events .events-content {
+    padding: 25px 18px;
+  }
+  .single-events .events-content span {
+    font-size: 13px;
+  }
+  .single-events .events-content h3 {
+    font-size: 19px;
+  }
+  .single-events .events-content .read-more {
+    font-size: 13px;
+  }
+  .upcoming-events-area {
+    padding-bottom: 25px;
+  }
+  .pricing-area {
+    padding-bottom: 25px;
+  }
+  .single-pricing {
+    margin-bottom: 30px;
+  }
+  .single-pricing .pricing-header h3 {
+    font-size: 19px;
+  }
+  .products-area {
+    padding-bottom: 25px;
+  }
+  .single-products .products-content h3 {
+    font-size: 19px;
+  }
+  .single-products .products-content span {
+    font-size: 14px;
+  }
+  .single-products .products-content .add-to-cart-btn {
+    font-size: 13px;
+  }
+  .products-slides.owl-theme {
+    margin-bottom: 30px;
+  }
+  .products-slides.owl-theme .owl-nav [class*=owl-] {
+    position: relative;
+    left: 0 !important;
+    top: 0;
+    -webkit-transform: unset;
+            transform: unset;
+    margin: 0 2px;
+  }
+  .products-slides.owl-theme .owl-nav [class*=owl-].owl-next {
+    left: auto;
+    right: 0 !important;
+  }
+  .funfacts-area.bg-color {
+    padding-bottom: 25px;
+  }
+  .page-title-area {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .page-title-content h1 {
+    font-size: 30px;
+  }
+  .page-title-content ul li {
+    font-size: 13px;
+  }
+  .courses-details .article-header {
+    padding: 15px;
+  }
+  .courses-details .article-header h3 {
+    font-size: 19px;
+  }
+  .courses-details .article-content {
+    padding: 25px 15px;
+  }
+  .courses-details .article-content h3 {
+    margin-bottom: 15px;
+    font-size: 19px;
+  }
+  .courses-details .what-you-will-learn li {
+    font-size: 13px;
+  }
+  blockquote {
+    padding: 15px 15px 15px 45px !important;
+  }
+  blockquote::before {
+    left: 15px;
+    top: 25px;
+    font-size: 20px;
+  }
+  .pagination-area .page-numbers {
+    margin: 0 2px;
+  }
+  .tab .tabs {
+    display: block;
+  }
+  .tab .tabs li {
+    display: block;
+    border-width: 1px;
+  }
+  .tab .tabs li a {
+    font-size: 14px;
+  }
+  .tab .tabs_item .horse-details {
+    margin-top: 30px;
+  }
+  .tab .tabs_item .horse-details h3 {
+    font-size: 19px;
+    margin-bottom: 15px;
+  }
+  .tab .tabs_item .horse-details .horse-info li {
+    float: unset;
+    width: 100%;
+    font-size: 13px;
+  }
+  .tab .tabs_item .horse-details .horse-pedigree li {
+    float: unset;
+    width: 100%;
+    font-size: 13px;
+  }
+  .tab .tabs_item .horse-video a {
+    margin-bottom: 30px;
+  }
+  .tab .tabs_item .horse-video a h3 {
+    margin-top: 15px;
+    font-size: 19px;
+  }
+  .billing-details {
+    padding: 15px;
+  }
+  .checkout-area .title {
+    font-size: 19px;
+  }
+  .products-details {
+    margin-top: 30px;
+  }
+  .products-details h3 {
+    font-size: 19px;
+  }
+  .products-details form .quantity {
+    display: block;
+    padding-right: 0;
+    margin-bottom: 15px;
+  }
+  .cart-table table thead tr th {
+    padding: 15px 15px;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+  .cart-buttons {
+    text-align: center;
+  }
+  .cart-buttons .text-end {
+    text-align: center !important;
+  }
+  .cart-buttons .continue-shopping-box {
+    margin-bottom: 15px;
+  }
+  .cart-totals {
+    padding: 15px;
+  }
+  .cart-totals h3 {
+    font-size: 19px;
+  }
+  .login-area {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    height: 100%;
+  }
+  .login-form {
+    max-width: 100%;
+    padding: 30px 20px;
+  }
+  .login-form h3 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .login-form form .form-group .remember-me {
+    height: 100%;
+  }
+  .login-form form .form-group .forgot-password {
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-top: 15px;
+  }
+  .signup-area {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    height: 100%;
+  }
+  .signup-form {
+    max-width: 100%;
+    padding: 30px 20px;
+  }
+  .signup-form h3 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .signup-form form .form-group .remember-me {
+    height: 100%;
+  }
+  .signup-form form .form-group .forgot-password {
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-top: 15px;
+  }
+  .error-area {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    height: 100%;
+  }
+  .error-content {
+    margin-top: 0;
+  }
+  .error-content .notfound-404 {
+    height: 95px;
+    margin-bottom: 20px;
+  }
+  .error-content .notfound-404 h1 {
+    font-size: 75px;
+  }
+  .error-content h3 {
+    font-size: 19px;
+    margin-bottom: 15px;
+  }
+  .error-content p {
+    font-size: 13px;
+  }
+  .coming-soon-area {
+    height: 100%;
+    padding-top: 170px;
+    padding-bottom: 170px;
+  }
+  .coming-soon-area .social-list {
+    bottom: 20px;
+  }
+  .coming-soon-content h1 {
+    font-size: 30px;
+  }
+  .coming-soon-content p {
+    font-size: 14px;
+  }
+  .coming-soon-content form .submit-btn {
+    position: relative;
+    right: 0;
+    top: 0;
+    height: 45px;
+    border-radius: 40px;
+    width: 130px;
+    font-size: 14px;
+    margin-top: 18px;
+    -webkit-box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.1), 0 0 0 4px rgba(255, 255, 255, 0.3);
+            box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.1), 0 0 0 4px rgba(255, 255, 255, 0.3);
+  }
+  .coming-soon-content #timer div {
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+    padding-top: 18px;
+    font-size: 30px;
+    margin-bottom: 25px;
+  }
+  .coming-soon-content #timer div span {
+    font-size: 13px;
+  }
+  .faq-accordion {
+    padding: 15px;
+  }
+  .faq-accordion .accordion .accordion-item .accordion-title {
+    font-size: 14px;
+  }
+  .faq-contact {
+    padding: 15px;
+  }
+  .faq-contact h3 {
+    font-size: 19px;
+  }
+  .blog-details .article-header {
+    padding: 15px;
+  }
+  .blog-details .article-header h3 {
+    font-size: 19px;
+  }
+  .blog-details .article-content {
+    padding: 20px 15px 20px;
+  }
+  .blog-details .article-content .entry-meta li {
+    margin-right: 9px;
+    font-size: 14px;
+  }
+  .blog-details .article-content .entry-meta li i {
+    margin-right: 2px;
+  }
+  .blog-details .article-content h3 {
+    font-size: 17px;
+  }
+  .post-controls-buttons {
+    padding: 20px 15px;
+  }
+  .post-controls-buttons div a {
+    font-size: 14px;
+  }
+  .comments-area .comments-title {
+    font-size: 18px;
+  }
+  .comments-area .comment-body {
+    margin-left: 0;
+  }
+  .comments-area .comment-author .avatar {
+    height: 50px;
+    margin-bottom: 8px;
+    left: 0;
+    position: relative;
+    width: 50px;
+    display: block;
+  }
+  .comments-area .children {
+    margin-left: 15px;
+  }
+  .comments-area .comment-respond {
+    padding: 20px 20px;
+  }
+  .comments-area .comment-respond .comment-reply-title {
+    font-size: 18px;
+  }
+  .comments-area .comment-respond .comment-form-author {
+    width: 100%;
+  }
+  .comments-area .comment-respond .comment-form-email {
+    width: 100%;
+    padding-left: 0;
+  }
+  .widget-area {
+    margin-top: 35px;
+    padding-left: 0;
+  }
+  .widget-area .widget .widget-title {
+    font-size: 19px;
+  }
+  .contact-sidebar {
+    margin-top: 35px;
+  }
+  .single-footer-widget {
+    margin-bottom: 30px;
+  }
+  .single-footer-widget h3 {
+    font-size: 19px;
+    margin-bottom: 15px;
+  }
+  .copyright-area {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .copyright-area ul {
+    text-align: center;
+    margin-top: 15px;
+  }
+  /* Start "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .pt-70 {
+    padding-top: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .section-title.with-wrap-style span {
+    font-size: 12px;
+  }
+  .navbar-area-with-position-fixed {
+    background-color: #ffffff;
+  }
+  .navbar-area-with-position-fixed .semental-mobile-nav .others-options {
+    display: none !important;
+  }
+  .navbar-area-with-position-fixed .semental-mobile-nav.mean-container .mean-nav ul li a.active {
+    color: #2B8F65;
+  }
+  .horse-ranch-slides-area .say-hello-content {
+    display: none;
+  }
+  .horse-ranch-slides-item {
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  .horse-ranch-slides-item .container-fluid {
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    max-width: 540px;
+  }
+  .horse-ranch-slides-content .sub-title {
+    font-size: 12.2px;
+  }
+  .horse-ranch-slides-content h1 {
+    font-size: 35px;
+  }
+  .horse-ranch-slides-content .slides-btn li {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+  .horse-ranch-slides-content .slides-btn li:last-child {
+    margin-bottom: 0;
+  }
+  .horse-ranch-slides-content .slides-btn li .video-btn {
+    margin-left: 0;
+    font-size: 13.5px;
+  }
+  .about-wrap-content {
+    padding: 40px 20px;
+    margin-right: 0;
+  }
+  .about-wrap-content span {
+    font-size: 12px;
+  }
+  .about-wrap-content h3 {
+    font-size: 24px;
+  }
+  .about-wrap-content .wrap-list li {
+    padding: 12px 12px 12px 32px;
+    font-size: 12px;
+  }
+  .about-wrap-content .wrap-list li i {
+    font-size: 14px;
+    left: 10px;
+  }
+  .horse-society-card .horse-society-image {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .horse-society-card .horse-society-content {
+    padding-left: 85px;
+  }
+  .horse-society-card .horse-society-content .icon-image {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+  }
+  .horse-society-card .horse-society-content .icon-image img {
+    max-width: 40px;
+  }
+  .horse-society-card .horse-society-content .content h3 {
+    font-size: 16.2px;
+  }
+  .horse-society-card .horse-society-content .content .read-more-btn {
+    font-size: 12px;
+  }
+  .blog-wrap-card .blog-content {
+    padding: 25px;
+    margin-top: 0;
+    margin-left: 0;
+  }
+  .blog-wrap-card .blog-content span {
+    font-size: 12px;
+  }
+  .blog-wrap-card .blog-content h3 {
+    font-size: 18px;
+  }
+  .blog-wrap-card .blog-content .read-more-btn {
+    font-size: 12px;
+  }
+  .subscribe-wrap-content h2 {
+    font-size: 24px;
+  }
+  .subscribe-wrap-content .newsletter-form {
+    margin-top: 30px;
+  }
+  .subscribe-wrap-content .newsletter-form button {
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+  }
+  .subscribe-wrap-shape1, .subscribe-wrap-shape2 {
+    display: none;
+  }
+  .footer-wrap-area .copyright-area {
+    margin-top: 25px;
+  }
+  .navbar-area-with-position-relative {
+    background-color: #ffffff;
+  }
+  .navbar-area-with-position-relative .semental-mobile-nav .others-options {
+    display: none !important;
+  }
+  .navbar-area-with-position-relative .semental-mobile-nav.mean-container .mean-nav ul li a.active {
+    color: #2B8F65;
+  }
+  .equestrian-club-area {
+    background-color: #F8F7F5;
+  }
+  .equestrian-club-area .container-fluid {
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    max-width: 540px;
+  }
+  .equestrian-club-content {
+    padding-top: 70px;
+    padding-bottom: 30px;
+    padding-right: 0;
+  }
+  .equestrian-club-content .sub-title {
+    font-size: 12.2px;
+  }
+  .equestrian-club-content h1 {
+    font-size: 30px;
+  }
+  .equestrian-club-content .banner-btn {
+    margin-top: 25px;
+  }
+  .equestrian-club-content .banner-btn li {
+    margin-right: 0;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .equestrian-club-content .banner-btn li:last-child {
+    margin-bottom: 0;
+  }
+  .equestrian-club-content .banner-btn li .video-btn {
+    margin-left: 0;
+    font-size: 13.5px;
+  }
+  .equestrian-club-image {
+    height: 450px;
+  }
+  .features-style-item .features-content h3 {
+    font-size: 18px;
+  }
+  .features-style-item .features-content .read-more-btn {
+    font-size: 12px;
+  }
+  .features-style-shape {
+    display: none;
+  }
+  .ec-about-content {
+    padding-left: 0;
+    margin-top: 30px;
+  }
+  .ec-about-content span {
+    font-size: 11px;
+  }
+  .ec-about-content h3 {
+    font-size: 24px;
+  }
+  .video-wrap-style-area::before {
+    height: 80px;
+  }
+  .funfacts-wrap-inner-box .single-funfacts h2 {
+    font-size: 32px;
+  }
+  .funfacts-wrap-inner-box .single-funfacts h2 .small-text {
+    font-size: 28px;
+    left: -2px;
+  }
+  .pricing-plan-accordion h3 {
+    font-size: 18px;
+  }
+  .pricing-plan-accordion .accordion .accordion-item .accordion-title {
+    font-size: 15px;
+  }
+  .pricing-plan-content-list {
+    padding-left: 0;
+    margin-top: 30px;
+  }
+  .pricing-plan-content-list h3 {
+    font-size: 18px;
+  }
+  .subscribe-wrap-inner-box {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .riding-school-area {
+    padding-top: 70px;
+    padding-bottom: 50px;
+  }
+  .riding-school-area .container-fluid {
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    max-width: 540px;
+  }
+  .riding-school-area .say-hello-content {
+    display: none;
+  }
+  .riding-school-content .sub-title {
+    font-size: 12.2px;
+  }
+  .riding-school-content h1 {
+    font-size: 30px;
+  }
+  .riding-school-content .banner-btn {
+    margin-top: 25px;
+  }
+  .riding-school-content .banner-btn li {
+    margin-right: 0;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .riding-school-content .banner-btn li:last-child {
+    margin-bottom: 0;
+  }
+  .riding-school-content .banner-btn li .video-btn {
+    margin-left: 0;
+    font-size: 13.5px;
+  }
+  .riding-school-image {
+    margin-top: 35px;
+    padding-left: 0;
+    padding-bottom: 0;
+  }
+  .riding-school-image::before {
+    display: none;
+  }
+  .riding-school-image .school-image .content {
+    display: none;
+  }
+  .horse-society-item {
+    padding: 20px;
+  }
+  .horse-society-item .content h3 {
+    font-size: 18px;
+  }
+  .horse-society-item .content .read-more-btn {
+    font-size: 12px;
+  }
+  .rs-about-content {
+    padding: 25px 10px;
+    margin-top: 30px;
+  }
+  .rs-about-content span {
+    font-size: 10px;
+  }
+  .rs-about-content h3 {
+    font-size: 24px;
+  }
+  .riding-lessons-area {
+    background-color: #212529;
+  }
+  .riding-lessons-area::before {
+    display: none;
+  }
+  .riding-lessons-area::after {
+    display: none;
+  }
+  .riding-lessons-content {
+    padding-right: 0;
+  }
+  .riding-lessons-content span {
+    font-size: 11px;
+  }
+  .riding-lessons-content h3 {
+    font-size: 24px;
+  }
+  .riding-lessons-content .lessons-inner-content {
+    padding-left: 85px;
+  }
+  .riding-lessons-content .lessons-inner-content .icon-image {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+  }
+  .riding-lessons-content .lessons-inner-content .icon-image img {
+    max-width: 40px;
+  }
+  .riding-lessons-content .lessons-inner-content .content h3 {
+    font-size: 18px;
+  }
+  .riding-lessons-image {
+    padding: 0;
+    margin-top: 35px;
+  }
+  .team-wrap-card .team-content h3 {
+    font-size: 18px;
+  }
+  /* End "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .others-options {
+    display: none;
+  }
+  .main-banner {
+    height: 100%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background-color: #272b2b;
+    position: relative;
+    top: 8px;
+    margin-top: -8px;
+  }
+  .mean-container .mean-nav ul {
+    max-height: 350px;
+    overflow-x: auto;
+  }
+  .about-image {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .about-image img {
+    width: 100%;
+  }
+  .about-image::before {
+    left: 0;
+    right: auto;
+    margin: 0 auto;
+  }
+  .about-content span::before {
+    display: none;
+  }
+  .courses-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -15px;
+  }
+  .courses-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    left: auto;
+    right: -15px;
+  }
+  .horse-box3 {
+    display: none;
+  }
+  .stallions-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -15px;
+  }
+  .stallions-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    left: auto;
+    right: -15px;
+  }
+  .instructor-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -15px;
+  }
+  .instructor-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    left: auto;
+    right: -15px;
+  }
+  .feedback-slides.owl-theme:hover .owl-nav [class*="owl-"], .feedback-slides.owl-theme:focus .owl-nav [class*="owl-"] {
+    left: -15px;
+  }
+  .feedback-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next, .feedback-slides.owl-theme:focus .owl-nav [class*="owl-"].owl-next {
+    left: auto;
+    right: -15px;
+  }
+  .products-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -15px;
+  }
+  .products-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    left: auto;
+    right: -15px;
+  }
+  .horse-box5, .horse-box6 {
+    display: none;
+  }
+  .process-area {
+    padding-bottom: 50px;
+  }
+  .single-process {
+    padding-bottom: 26px;
+    margin-bottom: 30px;
+  }
+  .single-process::before {
+    display: none;
+  }
+  .subscribe-content {
+    padding-left: 0;
+  }
+  .subscribe-content form .form-group {
+    width: 33%;
+  }
+  .subscribe-content form .btn {
+    float: unset;
+    width: auto;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .about-inner-area {
+    margin-top: 30px;
+  }
+  .single-about-inner {
+    margin-top: 30px;
+  }
+  .single-footer-widget {
+    margin-bottom: 30px;
+  }
+  .copyright-area {
+    margin-top: 50px;
+  }
+  .contact-sidebar {
+    margin-top: 30px;
+  }
+  .products-details {
+    margin-top: 30px;
+  }
+  .widget-area {
+    margin-top: 35px;
+    padding-left: 0;
+  }
+  .horse-details {
+    margin-top: 30px;
+  }
+  .horse-video a {
+    margin-bottom: 30px;
+  }
+  .pricing-area {
+    padding-bottom: 50px;
+  }
+  .single-pricing {
+    margin-bottom: 30px;
+  }
+  /* Start "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+  .ptb-100 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .pt-100 {
+    padding-top: 80px;
+  }
+  .pb-100 {
+    padding-bottom: 80px;
+  }
+  .pt-70 {
+    padding-top: 80px;
+  }
+  .pb-70 {
+    padding-bottom: 50px;
+  }
+  .navbar-area-with-position-fixed {
+    background-color: #ffffff;
+  }
+  .navbar-area-with-position-fixed .semental-mobile-nav .others-options {
+    display: none !important;
+  }
+  .navbar-area-with-position-fixed .semental-mobile-nav.mean-container .mean-nav ul li a.active {
+    color: #2B8F65;
+  }
+  .horse-ranch-slides-area .say-hello-content {
+    display: none;
+  }
+  .horse-ranch-slides-item {
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  .horse-ranch-slides-item .container-fluid {
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    max-width: 720px;
+  }
+  .horse-ranch-slides-content h1 {
+    font-size: 55px;
+  }
+  .about-wrap-content {
+    padding: 40px 20px;
+    margin-right: 0;
+  }
+  .horse-society-card .horse-society-image {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .horse-society-card .horse-society-content {
+    padding-left: 85px;
+  }
+  .horse-society-card .horse-society-content .icon-image {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+  }
+  .horse-society-card .horse-society-content .icon-image img {
+    max-width: 40px;
+  }
+  .horse-society-card .horse-society-content .content h3 {
+    font-size: 19.2px;
+  }
+  .horse-society-card .horse-society-content .content .read-more-btn {
+    font-size: 12px;
+  }
+  .subscribe-wrap-shape1, .subscribe-wrap-shape2 {
+    display: none;
+  }
+  .footer-wrap-area .copyright-area {
+    margin-top: 50px;
+  }
+  .navbar-area-with-position-relative {
+    background-color: #ffffff;
+  }
+  .navbar-area-with-position-relative .semental-mobile-nav .others-options {
+    display: none !important;
+  }
+  .navbar-area-with-position-relative .semental-mobile-nav.mean-container .mean-nav ul li a.active {
+    color: #2B8F65;
+  }
+  .equestrian-club-area {
+    background-color: #F8F7F5;
+  }
+  .equestrian-club-area .container-fluid {
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    max-width: 720px;
+  }
+  .equestrian-club-content {
+    padding-top: 70px;
+    padding-bottom: 50px;
+    padding-right: 0;
+  }
+  .equestrian-club-content h1 {
+    font-size: 55px;
+  }
+  .equestrian-club-image {
+    height: 450px;
+  }
+  .features-style-shape {
+    display: none;
+  }
+  .ec-about-content {
+    padding-left: 0;
+    margin-top: 30px;
+  }
+  .video-wrap-style-area::before {
+    height: 80px;
+  }
+  .pricing-plan-content-list {
+    padding-left: 0;
+    margin-top: 30px;
+  }
+  .riding-school-area .container-fluid {
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    max-width: 720px;
+  }
+  .riding-school-content .sub-title {
+    font-size: 14.2px;
+  }
+  .riding-school-content h1 {
+    font-size: 55px;
+  }
+  .riding-school-image {
+    margin-top: 45px;
+  }
+  .riding-school-image::before {
+    left: 0;
+  }
+  .rs-about-content {
+    padding: 35px 20px;
+    margin-top: 30px;
+  }
+  .riding-lessons-area {
+    background-color: #212529;
+  }
+  .riding-lessons-area::before {
+    display: none;
+  }
+  .riding-lessons-area::after {
+    display: none;
+  }
+  .riding-lessons-image {
+    padding-left: 0;
+    margin-top: 35px;
+  }
+  /* End "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .others-options {
+    display: none;
+  }
+  .courses-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -20px;
+  }
+  .courses-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    right: -20px;
+  }
+  .stallions-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -20px;
+  }
+  .stallions-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    right: -20px;
+  }
+  .feedback-slides.owl-theme:hover .owl-nav [class*="owl-"] {
+    left: -20px;
+  }
+  .feedback-slides.owl-theme:hover .owl-nav [class*="owl-"].owl-next {
+    left: auto;
+    right: -20px;
+  }
+  .instructor-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -20px;
+  }
+  .instructor-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    right: -20px;
+  }
+  .products-slides.owl-theme .owl-nav [class*="owl-"] {
+    left: -20px;
+  }
+  .products-slides.owl-theme .owl-nav [class*="owl-"].owl-next {
+    right: -20px;
+  }
+  .semental-nav .navbar .navbar-nav .nav-item .dropdown-menu {
+    left: auto;
+    right: 0;
+  }
+  .semental-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
+    left: auto;
+    right: 240px;
+  }
+  /* Start "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+  .navbar-area-with-position-fixed .semental-nav .container-fluid {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .navbar {
+    padding: 10px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .navbar .navbar-nav .nav-item a {
+    font-size: 13.4px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options {
+    margin-left: 5px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item {
+    margin-right: 12px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .cart-btn a {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .cart-btn a span {
+    right: -4px;
+    top: 0;
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+    color: #ffffff;
+    font-size: 10px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .search-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .close-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .btn {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+  .about-wrap-content {
+    padding: 30px 15px;
+  }
+  .about-wrap-content .wrap-list li {
+    padding: 12px 12px 12px 32px;
+    font-size: 13.2px;
+  }
+  .about-wrap-content .wrap-list li i {
+    font-size: 14px;
+    left: 10px;
+  }
+  .horse-society-card .horse-society-content {
+    padding-left: 90px;
+  }
+  .horse-society-card .horse-society-content .icon-image {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+  }
+  .horse-society-card .horse-society-content .icon-image img {
+    max-width: 40px;
+  }
+  .subscribe-wrap-shape1, .subscribe-wrap-shape2 {
+    display: none;
+  }
+  .navbar-area-with-position-relative .semental-nav {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .navbar-area-with-position-relative .semental-nav .container-fluid {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .navbar-area-with-position-relative .semental-nav .navbar {
+    padding: 10px;
+  }
+  .navbar-area-with-position-relative .semental-nav .navbar .navbar-nav .nav-item a {
+    font-size: 13.4px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options {
+    margin-left: 5px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item {
+    margin-right: 12px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .cart-btn a {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .cart-btn a span {
+    right: -4px;
+    top: 0;
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+    color: #ffffff;
+    font-size: 10px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .search-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .close-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .btn {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+  .equestrian-club-content .sub-title {
+    font-size: 15.2px;
+  }
+  .equestrian-club-content h1 {
+    font-size: 55px;
+  }
+  .features-style-item .features-content {
+    padding: 35px 12px 25px 12px;
+  }
+  .features-style-item .features-content h3 {
+    font-size: 18px;
+  }
+  .features-style-item .features-content .read-more-btn {
+    font-size: 12px;
+  }
+  .ec-about-content {
+    padding-left: 10px;
+  }
+  .riding-school-content .sub-title {
+    font-size: 14.2px;
+  }
+  .riding-school-content h1 {
+    font-size: 50px;
+  }
+  .rs-about-content {
+    padding: 30px 15px;
+  }
+  .rs-about-content .list li {
+    padding: 12px 12px 12px 32px;
+    font-size: 13.2px;
+  }
+  .rs-about-content .list li i {
+    font-size: 14px;
+    left: 10px;
+  }
+  .team-wrap-card .team-content {
+    padding: 25px;
+  }
+  .team-wrap-card .team-content h3 {
+    font-size: 17.5px;
+  }
+  /* End "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+}
+
+@media only screen and (min-width: 1650px) {
+  .footer-area .container-fluid {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .subscribe-content {
+    padding-left: 0;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .semental-mobile-nav {
+    display: block;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .semental-mobile-nav .logo {
+    position: relative;
+    z-index: 9910;
+    left: 15px;
+    width: 60%;
+  }
+  .semental-mobile-nav .logo a {
+    display: inline-block;
+  }
+  .semental-nav {
+    display: none !important;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  /* Start "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+  .navbar-area-with-position-fixed .semental-nav .container-fluid {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .navbar {
+    padding: 10px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options {
+    margin-left: 5px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item {
+    margin-right: 12px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .cart-btn a {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .cart-btn a span {
+    right: -4px;
+    top: 0;
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+    color: #ffffff;
+    font-size: 10px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .search-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .close-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-fixed .semental-nav .others-options .option-item .btn {
+    padding: 10px 15px;
+    font-size: 12px;
+  }
+  .about-wrap-content {
+    padding: 30px 15px;
+  }
+  .about-wrap-content .wrap-list li {
+    padding: 12px 12px 12px 32px;
+  }
+  .about-wrap-content .wrap-list li i {
+    font-size: 14px;
+    left: 10px;
+  }
+  .horse-society-card .horse-society-content {
+    padding-left: 90px;
+  }
+  .horse-society-card .horse-society-content .icon-image {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+  }
+  .horse-society-card .horse-society-content .icon-image img {
+    max-width: 40px;
+  }
+  .blog-wrap-card .blog-content {
+    margin-left: 15px;
+    padding: 20px;
+  }
+  .blog-wrap-card .blog-content h3 {
+    font-size: 18px;
+  }
+  .subscribe-wrap-shape1 {
+    max-width: 170px;
+  }
+  .navbar-area-with-position-relative .semental-nav {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .navbar-area-with-position-relative .semental-nav .container-fluid {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .navbar-area-with-position-relative .semental-nav .navbar {
+    padding: 10px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options {
+    margin-left: 5px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item {
+    margin-right: 12px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .cart-btn a {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .cart-btn a span {
+    right: -4px;
+    top: 0;
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+    color: #ffffff;
+    font-size: 10px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .search-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .close-btn {
+    font-size: 15px;
+  }
+  .navbar-area-with-position-relative .semental-nav .others-options .option-item .btn {
+    padding: 10px 15px;
+    font-size: 12px;
+  }
+  .equestrian-club-content .sub-title {
+    font-size: 14.2px;
+  }
+  .equestrian-club-content h1 {
+    font-size: 62px;
+  }
+  .riding-school-content h1 {
+    font-size: 62px;
+  }
+  .rs-about-content {
+    padding: 30px 20px;
+  }
+  /* End "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+}
+
+@media only screen and (min-width: 1550px) {
+  /* Start "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+  .navbar-area-with-position-fixed .semental-nav .container-fluid {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .navbar-area-with-position-relative .semental-nav .container-fluid {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .horse-ranch-slides-area .say-hello-content {
+    right: 125px;
+  }
+  .horse-ranch-slides-item .container-fluid {
+    padding-left: 145px;
+    padding-right: 145px;
+  }
+  .equestrian-club-area .container-fluid {
+    padding-left: 100px;
+    padding-right: 0;
+  }
+  .equestrian-club-area .say-hello-content {
+    right: 100px;
+  }
+  .equestrian-club-content {
+    padding-top: 220px;
+    padding-bottom: 220px;
+  }
+  .riding-school-area .container-fluid {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .riding-school-area .say-hello-content {
+    right: 100px;
+  }
+  /* End "Horse Ranch Demo Responsive, "Equestrian Club Demo Responsive & Horse Riding School Demo Responsive" */
+}
+/*# sourceMappingURL=responsive.css.map */
