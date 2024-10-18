@@ -1,1 +1,1 @@
-<a href="https://www.gaurakshashalas.org/">Gaurakshashalas</a>
+<a href="https://www.gaurakshashalas.org/" target="_new">Gaurakshashalas</a>
